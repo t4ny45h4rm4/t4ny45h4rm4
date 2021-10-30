@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @t4ny45h4rm4
-- 👀 I’m interested in cpp & c programming . 
-- 🌱 I’m currently learning python and web development.
-- 💞️ I’m looking to collaborate on projects if any one need my help.
+- 👋 Hi, I’m Tanya Sharma
+- 👀 I’m interested in programming.
+- 🌱 I’m currently exploring and enhancing my skills.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ... mail me @sharmatanya25.1100@gmail.com 
 
 <!---
